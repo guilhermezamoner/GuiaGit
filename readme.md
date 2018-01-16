@@ -45,4 +45,9 @@
 #### Listagem dos Commits :
 * git log
 
+### Stash p/ untracked files :
+
+* git stash --include-untracked 
+
+
 ##### Para visualizar os commit's com maior facilidade, basta utilizar o GitK.
