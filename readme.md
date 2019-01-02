@@ -1,4 +1,4 @@
-### Guia com os mais frequentes comandos no github
+### Guia com os mais frequentes comandos no git
 
 #### Iniciar um novo repositório :
 * git init
